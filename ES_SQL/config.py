@@ -1,0 +1,1 @@
+DEAFULT_SIZE = 50
